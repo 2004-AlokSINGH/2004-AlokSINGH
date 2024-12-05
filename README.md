@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
 <h3 align="center">AIML Enthusiast nd Web Developer</h3>
-🔭 I’m currently working on Java Spring Framework.
-🌱 I’m currently learning microservices.
+
+<h4>🔭 I’m currently working on Java Spring Framework.</h4>
+<h4>🌱 I’m currently learning microservices.</h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-singh-2b6547228/)
