@@ -6,9 +6,9 @@
 Passionate about building scalable software solutions and creating user-centric web applications. Always eager to explore emerging technologies and apply them to real-world problems.
 </p>
 
-<h4>🕷️ I’m currently working on Java Spring Framework and enhancing the <a href="https://github.com/2004-AlokSINGH/Ritividhi">Ritividhi project</a>.</h4>
+<h4>🕷️ I’m currently working on Java Spring Framework and enhancing the <a href="https://github.com/2004-AlokSINGH/Ritividhi">Project</a>.</h4>
 <h4>🌱 I’m currently learning Microservices Architecture and exploring semantic search and embeddings.</h4>
-<h4>👨‍💻 Actively developing WhatsApp bots with OpenAI integration and working on Python-based biometric attendance systems.</h4>
+<!-- <h4>👨‍💻 Actively developing WhatsApp bots with OpenAI integration and working on Python-based biometric attendance systems.</h4> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-singh-2b6547228/)
@@ -24,7 +24,7 @@ Passionate about building scalable software solutions and creating user-centric 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2004-AlokSINGH&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2004-AlokSINGH&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 ### 🌟 Fun Fact:
 "The best way to predict the future is to create it!"
