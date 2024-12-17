@@ -6,7 +6,7 @@
 Passionate about building scalable software solutions and creating user-centric web applications. Always eager to explore emerging technologies and apply them to real-world problems.
 </p>
 
-<h4>🕷️ I’m currently working on Java Spring Framework and enhancing the <a href="https://github.com/2004-AlokSINGH/Ritividhi">Project</a>.</h4>
+<h4>🕷️ I’m currently working on Java Spring Framework and enhancing the Project.</h4>
 <h4>🌱 I’m currently learning Microservices Architecture and exploring semantic search and embeddings.</h4>
 <!-- <h4>👨‍💻 Actively developing WhatsApp bots with OpenAI integration and working on Python-based biometric attendance systems.</h4> -->
 
