@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
-<h3 align="center">AIML Enthusiast | Full-Stack Web Developer |  QA Intern (Publicis Sapient)</h3>
+<h3 align="center">AIML Enthusiast | Full-Stack Web Developer |  QA Intern (Publicis Sapient) | AWS</h3>
 
 <p align="center">
 Passionate about building scalable software solutions and creating user-centric web applications. Always eager to explore emerging technologies and apply them to real-world problems.
 </p>
 
-<h4>🕷️ I’m currently working on Java Spring Framework and enhancing the Project.</h4>
+<h4>🕷️ I’m currently working on Java Spring Framework and AWS for Cloud Support for enhancing the Project.</h4>
 <h4>🌱 I’m currently learning Microservices Architecture and exploring semantic search and embeddings.</h4>
 <!-- <h4>👨‍💻 Actively developing WhatsApp bots with OpenAI integration and working on Python-based biometric attendance systems.</h4> -->
 
