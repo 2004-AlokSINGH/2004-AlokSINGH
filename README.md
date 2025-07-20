@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
-<h3 align="center">AIML Enthusiast | Full-Stack Web Developer |  QA Intern (Publicis Sapient) | AWS</h3>
+<h3 align="center">AIML Enthusiast | Full-Stack Web Developer |  Junior Associate Technology (Publicis Sapient) | AWS</h3>
 
 <p align="center">
 Passionate about building scalable software solutions and creating user-centric web applications. Always eager to explore emerging technologies and apply them to real-world problems.
